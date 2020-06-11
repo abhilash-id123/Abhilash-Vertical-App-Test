@@ -1,10 +1,10 @@
 [
 	{
-		color: "red",
+		color: "red 123",
 		value: "#f00"
 	},
 	{
-		color: "green",
+		color: "green 43",
 		value: "#0f0"
 	},
 	{
@@ -20,7 +20,7 @@
 		value: "#f0f"
 	},
 	{
-		color: "Purple",
+		color: "yellow",
 		value: "#ff0"
 	},
 	{
