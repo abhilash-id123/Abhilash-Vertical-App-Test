@@ -24,7 +24,7 @@
 		value: "#ff0"
 	},
 	{
-		color: "black",
+		color: "dark black",
 		value: "#000"
 	}
 ]
